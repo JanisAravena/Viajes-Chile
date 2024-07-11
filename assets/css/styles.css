@@ -28,5 +28,30 @@ section {
   #navbar {
     z-index: 2;
   }
+
+  .btn-custom-color {
+    background-color: #0dcaf0 !important;
+    border-color: #0dcaf0;
+  }
+
+  footer {
+    background-color: #0dcaf0;
+    color: #fff; 
+    padding: 20px 0;
+    text-align: center;
+  }
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .social-icons {
+    display: flex;
+    gap: 10px;
+  }
+  .social-icons a {
+    color: #fff; 
+    font-size: 20px;
+  }
   
   
