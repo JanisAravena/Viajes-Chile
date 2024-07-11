@@ -6,3 +6,22 @@
 .texto-viajes {
     color: white;
 }
+
+#navbar {
+    transition: background-color 0.5s ease;
+  }
+  
+  .scrolled {
+    background-color: #373a3c !important;
+  }
+  
+  .carousel-inner {
+    position: relative;
+    z-index: 1;
+  }
+  
+  #navbar {
+    z-index: 2;
+  }
+  
+  
