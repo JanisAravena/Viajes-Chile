@@ -1,4 +1,4 @@
-![image](https://github.com/JanisAravena/Viajes-Chile/assets/94873219/584d33dd-cdc1-44c0-9380-506996c8a424)![image](https://github.com/JanisAravena/Viajes-Chile/assets/94873219/0ed3ba05-ec37-4880-a290-8d13f2480eb8)Prueba - Viajes Chile
+Prueba - Viajes Chile
 ● Para realizar esta prueba debes haber estudiado previamente todo el material
 disponible en el LMS correspondiente al módulo.
 ● Una vez terminada la prueba, sube el proyecto a GitHub con los requerimientos
@@ -31,6 +31,7 @@ Descripción
 La agencia Viajes Chile solicita la creación de su landing page, que tenga un diseño atractivo
 e innovador, utilizando los conocimientos que has adquirido a través de las distintas
 unidades. Para esto, puedes guiarte por la siguiente estructura:
+![image](https://github.com/JanisAravena/Viajes-Chile/assets/94873219/0ed3ba05-ec37-4880-a290-8d13f2480eb8)
 _ 2
 www.desafiolatam.com
 La página debe contener las siguientes secciones:
