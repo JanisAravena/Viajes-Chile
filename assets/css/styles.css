@@ -1,3 +1,8 @@
+section {
+    background-color: black;
+    color: white;
+}
+
 .imagen-viajes {
     width: 30px;
     height: auto;
@@ -5,4 +10,75 @@
 
 .texto-viajes {
     color: white;
+}
+
+#navbar {
+    transition: background-color 0.5s ease;
+  }
+  
+  .scrolled {
+    background-color: #373a3c !important;
+  }
+  
+  .carousel-inner {
+    position: relative;
+    z-index: 1;
+  }
+  
+  #navbar {
+    z-index: 2;
+  }
+
+  .btn-custom-color {
+    background-color: #0dcaf0 !important;
+    border-color: #0dcaf0;
+  }
+
+  footer {
+    background-color: #0dcaf0;
+    color: #fff; 
+    padding: 20px 0;
+    text-align: center;
+  }
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .social-icons {
+    display: flex;
+    gap: 10px;
+  }
+  .social-icons a {
+    color: #fff; 
+    font-size: 20px;
+  }
+  
+  .linea {
+    width: 100px;
+    height: 3px;
+    background-color: #0dcaf0;
+    margin: 20px auto;
+}
+.container {
+    text-align: center;
+}
+.parrafos {
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.icono span {
+    padding: 0px 164px;
+    font-size: 150%;
+}
+  
+.parrafo-info {
+    text-align: left;
+}
+
+.card2-img {
+    height: 200px !important; 
+    object-fit: cover; 
 }
