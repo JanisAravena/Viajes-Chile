@@ -8,3 +8,17 @@ window.onscroll = function() {
     }
   };
 
+  $(document).ready(function () {
+    // Smooth scroll
+    $('a.nav-link').on('click', function (event) {
+        if (this.hash !== '') {
+            event.preventDefault();
+            const hash = this.hash;
+            $('html, body').animate({
+                scrollTop: $(hash).offset().top
+            }, 1000, function () {
+                window.location.hash = hash;
+            });
+        }
+    });
+});
